@@ -15,7 +15,6 @@ const Icon = ({ styles, name, imgUrl, isActive, disabled, handleClick }) => (
 )
 
 const Sidebar = () => {
-
   const navigate = useNavigate();
   const [isActive, setIsActive] = useState('dashboard');
 
