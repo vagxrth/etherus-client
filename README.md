@@ -13,6 +13,7 @@ A seamless and secure platform where you can now participate in crowdfunding cam
 - TailwindCSS
 - Vite
 - Solidity
+- ThirdWeb
 
 ## Features
 - Utilize the power of Web3 and Ethereum blockchain to enable decentralized funding for campaigns. 
