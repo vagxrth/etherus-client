@@ -1,5 +1,5 @@
 # Project Name
-CrowdFunding Web3 Application
+Etherus: CrowdFunding Web3 Application
 
 
 ## Introduction
