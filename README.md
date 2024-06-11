@@ -7,9 +7,6 @@ A seamless and secure platform where you can now participate in crowdfunding cam
  
 
 ## Tech Stack
-- HTML
-- CSS
-- JavaScript
 - React
 - TailwindCSS
 - Vite
@@ -19,7 +16,7 @@ A seamless and secure platform where you can now participate in crowdfunding cam
 
 ## Features
 - Utilize the power of Web3 and Ethereum blockchain to enable decentralized funding for campaigns. 
-- Empower users to create their crowdfunding campaigns using smart contracts easily. Individuals and organizations can set up their campaigns through a user-friendly interface, defining parameters such as funding goals and campaign duration.
+- Empower users to create their crowdfunding campaigns using smart contracts easily. Individuals and organizations can set up campaigns through a user-friendly interface, defining parameters such as funding goals and duration.
 
 
 ## Video
